@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-02-07T02:02:57Z",
+            "last_commit": "2026-02-07T20:45:16Z",
             "owner": "dotnet",
             "repo": "fsharp",
-            "stars": 4247
+            "stars": 4248
           }
         },
         {
@@ -68,7 +68,7 @@
             "last_commit": "2026-01-29T15:55:02Z",
             "owner": "akkadotnet",
             "repo": "akka.net",
-            "stars": 5017
+            "stars": 5018
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-01-18T10:48:55Z",
             "owner": "AsynkronIT",
             "repo": "protoactor-dotnet",
-            "stars": 1873
+            "stars": 1874
           }
         }
       ],
@@ -638,7 +638,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-02-06T02:52:20Z",
+            "last_commit": "2026-02-08T03:25:23Z",
             "owner": "nightroman",
             "repo": "FarNet",
             "stars": 144
@@ -654,7 +654,7 @@
             "last_commit": "2026-02-04T18:03:31Z",
             "owner": "fsprojects",
             "repo": "FSharpLint",
-            "stars": 320
+            "stars": 321
           }
         },
         {
@@ -844,7 +844,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-02-05T16:00:58Z",
+            "last_commit": "2026-02-07T10:49:37Z",
             "owner": "gmpl",
             "repo": "FSharpPlus",
             "stars": 936
@@ -1029,7 +1029,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-02-07T06:52:08Z",
+            "last_commit": "2026-02-07T11:28:26Z",
             "owner": "bryanedds",
             "repo": "Nu",
             "stars": 1305
@@ -1090,7 +1090,7 @@
             "last_commit": "2025-11-14T16:15:20Z",
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1247
+            "stars": 1248
           }
         }
       ],
@@ -1320,7 +1320,7 @@
             "last_commit": "2025-12-15T18:05:45Z",
             "owner": "haf",
             "repo": "expecto",
-            "stars": 729
+            "stars": 730
           }
         },
         {
@@ -1837,7 +1837,7 @@
             "last_commit": "2025-10-26T18:25:29Z",
             "owner": "fsbolero",
             "repo": "Bolero",
-            "stars": 1127
+            "stars": 1128
           }
         },
         {
@@ -1847,7 +1847,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-02-06T22:39:18Z",
+            "last_commit": "2026-02-07T22:51:39Z",
             "owner": "pimbrouwers",
             "repo": "Falco",
             "stars": 620
@@ -2004,7 +2004,7 @@
             "last_commit": "2026-01-02T15:43:39Z",
             "owner": "fable-compiler",
             "repo": "fable-elmish",
-            "stars": 889
+            "stars": 890
           }
         },
         {
@@ -2092,7 +2092,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-02-02T06:34:56Z",
+            "last_commit": "2026-02-07T12:32:22Z",
             "owner": "knocte",
             "repo": "2fsharp",
             "stars": 168
@@ -2105,7 +2105,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-02-02T06:34:56Z",
+            "last_commit": "2026-02-07T12:32:22Z",
             "owner": "knocte",
             "repo": "2fsharp",
             "stars": 168
@@ -2145,7 +2145,7 @@
             "last_commit": "2025-09-16T00:31:13Z",
             "owner": "quozd",
             "repo": "awesome-dotnet",
-            "stars": 21081
+            "stars": 21080
           }
         },
         {
@@ -2181,10 +2181,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:09:31.024Z",
+    "last_updated": "2026-02-08T04:31:09.769Z",
     "original_repository": "fsprojects/awesome-fsharp",
     "source_repository": "v1nvn/enhansome-fsharp",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome F# with stars"
   }
 }
