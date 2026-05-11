@@ -10,7 +10,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-05-09T16:51:19Z",
+            "last_commit": "2026-05-11T05:03:55Z",
             "owner": "dotnet",
             "repo": "fsharp",
             "stars": 4284
@@ -65,7 +65,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-09T22:59:31Z",
+            "last_commit": "2026-05-10T16:15:23Z",
             "owner": "akkadotnet",
             "repo": "akka.net",
             "stars": 5053
@@ -136,10 +136,10 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2025-11-26T21:05:56Z",
+            "last_commit": "2026-05-10T22:23:17Z",
             "owner": "fsprojects",
             "repo": "FAKE",
-            "stars": 1329
+            "stars": 1328
           }
         },
         {
@@ -287,7 +287,7 @@
             "last_commit": "2017-02-14T14:25:32Z",
             "owner": "ZachBray",
             "repo": "FunScript",
-            "stars": 446
+            "stars": 445
           }
         },
         {
@@ -319,7 +319,7 @@
             "last_commit": "2026-05-07T18:31:13Z",
             "owner": "fs-fio",
             "repo": "fio",
-            "stars": 84
+            "stars": 85
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2022-11-12T13:57:38Z",
             "owner": "kekyo",
             "repo": "FSharp.Control.FusionTasks",
-            "stars": 161
+            "stars": 160
           }
         },
         {
@@ -442,7 +442,7 @@
             "last_commit": "2026-05-04T15:27:46Z",
             "owner": "fsprojects",
             "repo": "Argu",
-            "stars": 484
+            "stars": 483
           }
         },
         {
@@ -500,7 +500,7 @@
             "last_commit": "2026-05-09T13:04:02Z",
             "owner": "fslaborg",
             "repo": "Deedle",
-            "stars": 1004
+            "stars": 1003
           }
         },
         {
@@ -539,7 +539,7 @@
             "last_commit": "2022-03-17T09:11:27Z",
             "owner": "fsprojects",
             "repo": "IfSharp",
-            "stars": 442
+            "stars": 441
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2025-03-03T21:39:46Z",
             "owner": "mathnet",
             "repo": "mathnet-numerics",
-            "stars": 3732
+            "stars": 3733
           }
         },
         {
@@ -664,7 +664,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-05-09T12:29:08Z",
+            "last_commit": "2026-05-11T02:25:27Z",
             "owner": "fsprojects",
             "repo": "fantomas",
             "stars": 830
@@ -756,7 +756,7 @@
             "last_commit": "2018-08-26T17:18:27Z",
             "owner": "fsprojects",
             "repo": "Chessie",
-            "stars": 187
+            "stars": 186
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2021-11-07T15:47:24Z",
             "owner": "jack-pappas",
             "repo": "ExtCore",
-            "stars": 180
+            "stars": 179
           }
         },
         {
@@ -1029,7 +1029,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-05-10T04:37:43Z",
+            "last_commit": "2026-05-11T04:16:21Z",
             "owner": "bryanedds",
             "repo": "Nu",
             "stars": 1324
@@ -1320,7 +1320,7 @@
             "last_commit": "2026-05-08T19:29:45Z",
             "owner": "haf",
             "repo": "expecto",
-            "stars": 734
+            "stars": 733
           }
         },
         {
@@ -1398,7 +1398,7 @@
             "last_commit": "2026-05-07T14:24:53Z",
             "owner": "SteveGilham",
             "repo": "altcover",
-            "stars": 529
+            "stars": 528
           }
         },
         {
@@ -1421,7 +1421,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-03-23T20:28:07Z",
+            "last_commit": "2026-05-10T16:24:54Z",
             "owner": "hedgehogqa",
             "repo": "fsharp-hedgehog",
             "stars": 285
@@ -1513,7 +1513,7 @@
             "last_commit": "2025-05-03T15:04:46Z",
             "owner": "fsprojects",
             "repo": "FSharp.Configuration",
-            "stars": 116
+            "stars": 115
           }
         },
         {
@@ -1588,7 +1588,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-05-09T12:48:01Z",
+            "last_commit": "2026-05-10T11:56:06Z",
             "owner": "fsprojects",
             "repo": "FSharp.Data",
             "stars": 868
@@ -1692,7 +1692,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2023-04-11T14:12:37Z",
+            "last_commit": "2026-05-10T11:05:19Z",
             "owner": "fslaborg",
             "repo": "RProvider",
             "stars": 241
@@ -1708,7 +1708,7 @@
             "last_commit": "2020-07-13T15:13:20Z",
             "owner": "fsprojects",
             "repo": "Rezoom.SQL",
-            "stars": 676
+            "stars": 675
           }
         },
         {
@@ -1734,7 +1734,7 @@
             "last_commit": "2026-04-07T18:38:20Z",
             "owner": "fsprojects",
             "repo": "SQLProvider",
-            "stars": 625
+            "stars": 624
           }
         },
         {
@@ -1744,10 +1744,10 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-05-09T12:26:22Z",
+            "last_commit": "2026-05-10T21:12:08Z",
             "owner": "fsprojects",
             "repo": "SwaggerProvider",
-            "stars": 277
+            "stars": 276
           }
         }
       ],
@@ -1850,7 +1850,7 @@
             "last_commit": "2026-04-24T10:40:01Z",
             "owner": "falcoframework",
             "repo": "Falco",
-            "stars": 634
+            "stars": 635
           }
         },
         {
@@ -1902,7 +1902,7 @@
             "last_commit": "2026-04-27T23:02:56Z",
             "owner": "giraffe-fsharp",
             "repo": "Giraffe",
-            "stars": 2238
+            "stars": 2237
           }
         },
         {
@@ -1941,7 +1941,7 @@
             "last_commit": "2026-05-08T13:03:42Z",
             "owner": "SuaveIO",
             "repo": "suave",
-            "stars": 1347
+            "stars": 1346
           }
         },
         {
@@ -1951,7 +1951,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-05-09T22:17:57Z",
+            "last_commit": "2026-05-10T08:40:37Z",
             "owner": "dotnet-websharper",
             "repo": "core",
             "stars": 629
@@ -2145,7 +2145,7 @@
             "last_commit": "2026-03-26T05:16:53Z",
             "owner": "quozd",
             "repo": "awesome-dotnet",
-            "stars": 21327
+            "stars": 21332
           }
         },
         {
@@ -2176,7 +2176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T05:35:16.094Z",
+    "last_updated": "2026-05-11T05:56:26.349Z",
     "original_repository": "fsprojects/awesome-fsharp",
     "source_repository": "v1nvn/enhansome-fsharp",
     "source_repository_description": null,
