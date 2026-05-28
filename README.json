@@ -10,7 +10,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-05-27T03:36:54Z",
+            "last_commit": "2026-05-28T03:36:31Z",
             "owner": "dotnet",
             "repo": "fsharp",
             "stars": 4293
@@ -104,10 +104,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-26T17:18:58Z",
+            "last_commit": "2026-05-28T03:45:17Z",
             "owner": "dotnet",
             "repo": "orleans",
-            "stars": 10784
+            "stars": 10786
           }
         },
         {
@@ -258,7 +258,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-05-26T15:59:30Z",
+            "last_commit": "2026-05-27T20:57:40Z",
             "owner": "fable-compiler",
             "repo": "Fable",
             "stars": 3082
@@ -316,7 +316,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-05-22T18:01:57Z",
+            "last_commit": "2026-05-27T21:33:41Z",
             "owner": "fs-fio",
             "repo": "fio",
             "stars": 88
@@ -439,10 +439,10 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-05-26T19:42:41Z",
+            "last_commit": "2026-05-27T14:46:06Z",
             "owner": "fsprojects",
             "repo": "Argu",
-            "stars": 483
+            "stars": 484
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2025-03-03T21:39:46Z",
             "owner": "mathnet",
             "repo": "mathnet-numerics",
-            "stars": 3742
+            "stars": 3741
           }
         },
         {
@@ -899,7 +899,7 @@
             "last_commit": "2026-05-18T13:10:50Z",
             "owner": "demystifyfp",
             "repo": "FsToolkit.ErrorHandling",
-            "stars": 545
+            "stars": 546
           }
         },
         {
@@ -964,7 +964,7 @@
             "last_commit": "2025-02-07T13:44:31Z",
             "owner": "eiriktsarpalis",
             "repo": "TypeShape",
-            "stars": 325
+            "stars": 324
           }
         },
         {
@@ -1029,10 +1029,10 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-05-26T15:14:31Z",
+            "last_commit": "2026-05-27T08:56:44Z",
             "owner": "bryanedds",
             "repo": "Nu",
-            "stars": 1334
+            "stars": 1333
           }
         }
       ],
@@ -1051,7 +1051,7 @@
             "last_commit": "2026-05-08T17:02:25Z",
             "owner": "fsprojects",
             "repo": "Avalonia.FuncUI",
-            "stars": 1232
+            "stars": 1234
           }
         },
         {
@@ -1588,7 +1588,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-05-10T11:56:06Z",
+            "last_commit": "2026-05-27T17:49:01Z",
             "owner": "fsprojects",
             "repo": "FSharp.Data",
             "stars": 869
@@ -1744,7 +1744,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-05-27T06:16:14Z",
+            "last_commit": "2026-05-27T21:36:16Z",
             "owner": "fsprojects",
             "repo": "SwaggerProvider",
             "stars": 278
@@ -2145,7 +2145,7 @@
             "last_commit": "2026-03-26T05:16:53Z",
             "owner": "quozd",
             "repo": "awesome-dotnet",
-            "stars": 21372
+            "stars": 21373
           }
         },
         {
@@ -2176,7 +2176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-27T06:17:51.697Z",
+    "last_updated": "2026-05-28T06:09:01.559Z",
     "original_repository": "fsprojects/awesome-fsharp",
     "source_repository": "v1nvn/enhansome-fsharp",
     "source_repository_description": null,
