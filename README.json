@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-06-07T03:37:01Z",
+            "last_commit": "2026-06-08T06:05:27Z",
             "owner": "dotnet",
             "repo": "fsharp",
-            "stars": 4292
+            "stars": 4295
           }
         },
         {
@@ -68,7 +68,7 @@
             "last_commit": "2026-06-06T14:42:07Z",
             "owner": "akkadotnet",
             "repo": "akka.net",
-            "stars": 5061
+            "stars": 5062
           }
         },
         {
@@ -139,7 +139,7 @@
             "last_commit": "2026-05-16T22:09:04Z",
             "owner": "fsprojects",
             "repo": "FAKE",
-            "stars": 1328
+            "stars": 1329
           }
         },
         {
@@ -258,7 +258,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-06-04T01:25:40Z",
+            "last_commit": "2026-06-07T09:26:10Z",
             "owner": "fable-compiler",
             "repo": "Fable",
             "stars": 3087
@@ -439,7 +439,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-06-05T15:39:50Z",
+            "last_commit": "2026-06-07T13:27:22Z",
             "owner": "fsprojects",
             "repo": "Argu",
             "stars": 484
@@ -948,7 +948,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-06-07T00:39:24Z",
+            "last_commit": "2026-06-07T13:02:36Z",
             "owner": "JordanMarr",
             "repo": "SqlHydra",
             "stars": 265
@@ -1029,7 +1029,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-06-06T23:07:31Z",
+            "last_commit": "2026-06-08T05:36:36Z",
             "owner": "bryanedds",
             "repo": "Nu",
             "stars": 1338
@@ -1244,7 +1244,7 @@
             "last_commit": "2026-06-02T21:36:58Z",
             "owner": "Tarmil",
             "repo": "FSharp.SystemTextJson",
-            "stars": 367
+            "stars": 368
           }
         },
         {
@@ -1320,7 +1320,7 @@
             "last_commit": "2026-06-04T15:57:06Z",
             "owner": "haf",
             "repo": "expecto",
-            "stars": 738
+            "stars": 739
           }
         },
         {
@@ -1346,7 +1346,7 @@
             "last_commit": "2026-04-26T14:37:07Z",
             "owner": "fscheck",
             "repo": "FsCheck",
-            "stars": 1222
+            "stars": 1223
           }
         },
         {
@@ -1705,10 +1705,10 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-06-06T07:40:11Z",
+            "last_commit": "2026-06-08T05:41:32Z",
             "owner": "fsprojects",
             "repo": "Rezoom.SQL",
-            "stars": 678
+            "stars": 679
           }
         },
         {
@@ -1912,7 +1912,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-05-31T05:49:34Z",
+            "last_commit": "2026-06-07T17:30:27Z",
             "owner": "Lanayx",
             "repo": "Oxpecker",
             "stars": 413
@@ -1951,7 +1951,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-05-22T20:36:34Z",
+            "last_commit": "2026-06-07T19:57:46Z",
             "owner": "dotnet-websharper",
             "repo": "core",
             "stars": 632
@@ -2004,7 +2004,7 @@
             "last_commit": "2026-05-24T05:04:01Z",
             "owner": "elmish",
             "repo": "elmish",
-            "stars": 899
+            "stars": 900
           }
         },
         {
@@ -2176,7 +2176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-07T06:21:23.691Z",
+    "last_updated": "2026-06-08T06:40:17.636Z",
     "original_repository": "fsprojects/awesome-fsharp",
     "source_repository": "v1nvn/enhansome-fsharp",
     "source_repository_description": null,
